@@ -22,7 +22,9 @@ Focused on backend development, clean architecture, and test automation.
 
 ## 🎓 Education
 
-[📄 Diploma (PDF)](./diploma_ru.pdf)
+**Qualification:** Developer  
+[📄 Diploma (RU) (PDF)](./diploma_ru.pdf)
+[📄 Diploma (EN) (PDF)](./diploma_en.pdf)
 
 ## LeetCode
 
