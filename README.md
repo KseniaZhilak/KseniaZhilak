@@ -20,6 +20,10 @@ Focused on backend development, clean architecture, and test automation.
 - Building backend projects with Java & Spring
 - Deepening knowledge of system design and clean architecture
 
+## 🎓 Education
+
+[📄 Diploma (PDF)](./diploma_ru.pdf)
+
 ## LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ksenia_Zhilak?theme=light&font=Nunito&ext=heatmap)](https://leetcode.com/Ksenia_Zhilak)
